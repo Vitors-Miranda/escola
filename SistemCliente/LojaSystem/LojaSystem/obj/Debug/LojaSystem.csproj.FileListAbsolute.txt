@@ -1,0 +1,3 @@
+C:\Users\Administrador\Desktop\SistemCliente\LojaSystem\LojaSystem\obj\Debug\LojaSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SistemCliente\LojaSystem\LojaSystem\obj\Debug\LojaSystem.MainForm.resources
+C:\Users\Administrador\Desktop\SistemCliente\LojaSystem\LojaSystem\obj\Debug\LojaSystem.csproj.GenerateResource.Cache
